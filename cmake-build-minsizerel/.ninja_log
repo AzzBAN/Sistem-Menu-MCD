@@ -1,0 +1,6 @@
+# ninja log v5
+6	747	1641224809295148052	CMakeFiles/Multi_III.dir/list_relasi.cpp.o	19f78a665ce4db1c
+0	753	1641224809306524383	CMakeFiles/Multi_III.dir/list_child.cpp.o	e7112815f0afe571
+6	754	1641224809305350793	CMakeFiles/Multi_III.dir/main.cpp.o	4d17b503729a0264
+4	798	1641224809347313843	CMakeFiles/Multi_III.dir/list_parent.cpp.o	44b63b6e13745a2d
+798	844	1641224809398472622	Multi_III	2ebdaef7802d28fd

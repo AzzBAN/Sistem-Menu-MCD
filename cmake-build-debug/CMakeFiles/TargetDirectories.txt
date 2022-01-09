@@ -1,0 +1,3 @@
+/Users/azhar/Documents/SEMESTER 5/JOKI/STD/Sistem Menu MCD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/azhar/Documents/SEMESTER 5/JOKI/STD/Sistem Menu MCD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/azhar/Documents/SEMESTER 5/JOKI/STD/Sistem Menu MCD/cmake-build-debug/CMakeFiles/Multi_III.dir
